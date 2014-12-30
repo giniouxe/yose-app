@@ -5,4 +5,7 @@ class StaticController < ApplicationController
 
   def home
   end
+
+  def astroport
+  end
 end
