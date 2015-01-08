@@ -1,6 +1,6 @@
 class PingController < ApplicationController
   def index
-    render :json => {:alive => true}
+    render :json => { alive: true }
   end
 
 end
